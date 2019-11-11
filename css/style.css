@@ -1,0 +1,16 @@
+<style> 
+                @font-face {
+                   font-family: myFirstFont;
+                   src: url("fonts/sansation.light.ttf");
+                }
+                
+                @font-face {
+                   font-family: myFirstFont;
+                   src: url("fonts/sansation.bold.ttf");
+                   font-weight: bold;
+                }
+                
+                * {
+                   font-family: myFirstFont;
+                }
+        </style>
